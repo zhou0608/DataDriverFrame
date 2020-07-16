@@ -2,12 +2,12 @@
 import unittest
 from Bussinesslib.Doclever import Docleverlib
 
-class TestCase(unittest.TestCase):
+class DoTestCase(unittest.TestCase):
     def setUp(self):
         self.Doclever = Docleverlib()
         self.Doclever.run_driver()
 
-    def test_1(self):
+    def test_login(self):
         self.Doclever.login()
         self.assertEqual(True,self.Doclever.is_element_present('id=tab-interface'))
 
