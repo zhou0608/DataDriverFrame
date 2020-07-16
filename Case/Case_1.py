@@ -1,15 +1,14 @@
 # -*- coding: utf-8 -*-
-import unittest,time
+import unittest
 from Bussinesslib.Doclever import Docleverlib
-from Corelib.SeleinumLib import SeleniumLib
+
 class TestCase(unittest.TestCase):
     def setUp(self):
         self.Doclever = Docleverlib()
         self.Doclever.run_driver()
 
-
     def test_1(self):
-        self.Doclever.login('zhou952789','123456')
+        self.Doclever.login()
         self.assertEqual(True,self.Doclever.is_element_present('id=tab-interface'))
 
 
