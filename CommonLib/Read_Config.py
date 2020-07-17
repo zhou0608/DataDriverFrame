@@ -7,3 +7,6 @@ def get_ini(key,value):
     value =cofing.get(key,value)
     return value
 
+global_min_time=1
+global_mid_time=3
+global_max_time=5

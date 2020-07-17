@@ -7,10 +7,13 @@ class DoTestCase(unittest.TestCase):
         self.Doclever = Docleverlib()
         self.Doclever.run_driver()
 
-    def test_login(self):
-        self.Doclever.login()
-        self.assertEqual(True,self.Doclever.is_element_present('id=tab-interface'))
+    def test_1(self):
+        self.Doclever.login('zhou952789','123456')
+        self.assertTrue(self.Doclever.is_element_present('id=tab-interface'))
 
+    def test_2(self):
+        self.Doclever.login('zhou952789','12456')
+        self.assertTrue(self.Doclever.is_text_present('用户名或者密码错误'))
 
     def tearDown(self):
         self.Doclever.close_driver()

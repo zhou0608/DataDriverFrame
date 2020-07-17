@@ -5,7 +5,7 @@ from HtmlTestRunner import HTMLTestRunner
 from Case.Case_1 import DoTestCase
 
 suite = unittest.TestSuite()
-tests = [DoTestCase('test_login')]
+tests = [DoTestCase('test_1'),DoTestCase('test_2')]
 suite.addTests(tests)
-runner = HTMLTestRunner(output='./reports')
+runner = HTMLTestRunner()
 runner.run(suite)
