@@ -1,0 +1,272 @@
+1597567243403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileZxRGHv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567245573	Marionette	INFO	Listening on port 60106
+1597567246025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597567666206	Marionette	INFO	Stopped listening on port 60106
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofilegbhaHq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567367659	Marionette	INFO	Listening on port 60289
+1597567367892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597567665444	Marionette	INFO	Stopped listening on port 60289
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileYWdMjk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567515595	Marionette	INFO	Listening on port 60548
+1597567515772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597567664502	Marionette	INFO	Stopped listening on port 60548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567581007	Marionette	INFO	Listening on port 60711
+1597567581145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597567610393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofilegKCxui"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567612731	Marionette	INFO	Listening on port 60854
+1597567613015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597567661313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileZnXosS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567663680	Marionette	INFO	Listening on port 61015
+1597567663943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597567721079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofilep38RMK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567723381	Marionette	INFO	Listening on port 61170
+1597567723705	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597567884576	Marionette	INFO	Stopped listening on port 61170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597567912306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileIA3U6j"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567914720	Marionette	INFO	Listening on port 61424
+1597567914929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597567972240	Marionette	INFO	Stopped listening on port 61424
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597567978601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileKkkdfM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597567980785	Marionette	INFO	Listening on port 61563
+1597567981225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597568002074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofiler0kMnb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568004229	Marionette	INFO	Listening on port 61698
+1597568004699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597568041018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileWEEksZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568043207	Marionette	INFO	Listening on port 61830
+1597568043645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597568354600	Marionette	INFO	Stopped listening on port 61830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568277478	Marionette	INFO	Listening on port 61978
+1597568277705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597568355229	Marionette	INFO	Stopped listening on port 61978
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568351561	Marionette	INFO	Listening on port 62108
+1597568351874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597568453312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofilepZR2T4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568455593	Marionette	INFO	Listening on port 62241
+1597568455938	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597568485371	Marionette	INFO	Stopped listening on port 62241
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597568493091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileV7xjub"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568495437	Marionette	INFO	Listening on port 62376
+1597568495711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597568565492	Marionette	INFO	Stopped listening on port 62376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568562514	Marionette	INFO	Listening on port 62507
+1597568562542	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597568592976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofilePWIjSr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597568595175	Marionette	INFO	Listening on port 62639
+1597568595601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597569142650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileeJqdDy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597569144986	Marionette	INFO	Listening on port 63423
+1597569145273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597569226108	Marionette	INFO	Stopped listening on port 63423
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofile2Uq1St"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597569205900	Marionette	INFO	Listening on port 63530
+1597569206283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597569250269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileBNxXrx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597569252533	Marionette	INFO	Listening on port 63689
+1597569252893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597569274744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://mimg.127.net/mailapi/src/2.0/cross_js5_v2.js, line 6: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_55b928eef7ca89ab08c7b5cb1b7b14c5.js?55b928eef7ca89ab08c7b5cb1b7b14c5, line 142: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/pt_musicbox_mailplayer_10cae5a49f93697c4d2a9994e7aa53ba.js?10cae5a49f93697c4d2a9994e7aa53ba, line 11: unreachable code after return statement
+1597569478998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zhou\\AppData\\Local\\Temp\\rust_mozprofileS5hHXr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597569481241	Marionette	INFO	Listening on port 64043
+1597569481620	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597580799848	Marionette	INFO	Stopped listening on port 64043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

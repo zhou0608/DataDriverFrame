@@ -1,0 +1,44 @@
+2020/08/16/17:13:20 - INFO - TestMail126AddContacts.py -46- 163邮箱添加联系人数据驱动测试开始。。。
+2020/08/16/17:13:20 - INFO - TestMail126AddContacts.py -66- 启动浏览器，访问163邮箱主页
+2020/08/16/17:13:27 - INFO - TestMail126AddContacts.py -68- 启动浏览器，访问163邮箱主页成功
+2020/08/16/17:13:30 - INFO - TestMail126AddContacts.py -80- 用户zjj_test@163.com登录后，断言页面关键字"收件箱"失败异常信息：Traceback (most recent call last):
+  File "D:\File\Frame\DataDrivenFrameWork\testScripts\TestMail126AddContacts.py", line 76, in test126MailAddContacts
+    assert '收件箱' in driver.page_source
+AssertionError
+
+2020/08/16/17:14:07 - INFO - TestMail126AddContacts.py -46- 163邮箱添加联系人数据驱动测试开始。。。
+2020/08/16/17:14:07 - INFO - TestMail126AddContacts.py -66- 启动浏览器，访问163邮箱主页
+2020/08/16/17:14:14 - INFO - TestMail126AddContacts.py -68- 启动浏览器，访问163邮箱主页成功
+2020/08/16/17:14:17 - INFO - TestMail126AddContacts.py -80- 用户zjj_test@163.com登录后，断言页面关键字"收件箱"失败异常信息：Traceback (most recent call last):
+  File "D:\File\Frame\DataDrivenFrameWork\testScripts\TestMail126AddContacts.py", line 76, in test126MailAddContacts
+    assert '收件箱' in driver.page_source
+AssertionError
+
+2020/08/16/17:17:55 - INFO - TestMail126AddContacts.py -46- 163邮箱添加联系人数据驱动测试开始。。。
+2020/08/16/17:17:55 - INFO - TestMail126AddContacts.py -66- 启动浏览器，访问163邮箱主页
+2020/08/16/17:18:03 - INFO - TestMail126AddContacts.py -68- 启动浏览器，访问163邮箱主页成功
+2020/08/16/17:18:07 - INFO - TestMail126AddContacts.py -80- 用户zjj_test@163.com登录后，断言页面关键字"收件箱"失败异常信息：Traceback (most recent call last):
+  File "D:\File\Frame\DataDrivenFrameWork\testScripts\TestMail126AddContacts.py", line 76, in test126MailAddContacts
+    assert '收件箱' in driver.page_source
+AssertionError
+
+2020/08/16/17:18:37 - INFO - TestMail126AddContacts.py -164- 数据驱动框架主程序执行过程发生异常，异常信息：Traceback (most recent call last):
+  File "D:\File\Frame\DataDrivenFrameWork\testScripts\TestMail126AddContacts.py", line 124, in test126MailAddContacts
+    contactPersonComment
+  File "D:\File\Frame\DataDrivenFrameWork\appModules\AddContactPersonAction.py", line 35, in add
+    raise e
+  File "D:\File\Frame\DataDrivenFrameWork\appModules\AddContactPersonAction.py", line 15, in add
+    hp.addressLink().click()
+  File "D:\File\Frame\DataDrivenFrameWork\pageObjects\HomePage.py", line 19, in addressLink
+    raise e
+  File "D:\File\Frame\DataDrivenFrameWork\pageObjects\HomePage.py", line 16, in addressLink
+    elementObj=getElement(self.driver,locatType,locatorExpression)
+  File "D:\File\Frame\DataDrivenFrameWork\util\ObjectMap.py", line 11, in getElement
+    raise e
+  File "D:\File\Frame\DataDrivenFrameWork\util\ObjectMap.py", line 8, in getElement
+    (lambda x:x.find_element(by=locateType,value=locatorExpression))
+  File "D:\Software\Python3.7\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+

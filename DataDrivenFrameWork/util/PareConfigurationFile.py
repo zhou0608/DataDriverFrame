@@ -1,5 +1,5 @@
 #coding=utf-8
-from Book_code.DataDrivenFrameWork.config.VarConfig import pageElementLocatorPath
+from DataDrivenFrameWork.config.VarConfig import pageElementLocatorPath
 import configparser
 
 class ParseCofigFile(object):

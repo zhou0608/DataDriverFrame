@@ -1,5 +1,5 @@
 # coding=utf-8
-from Book_code.DataDrivenFrameWork.pageObjects.LoginPage import LoginPage
+from DataDrivenFrameWork.pageObjects.LoginPage import LoginPage
 
 
 class LoginAction:

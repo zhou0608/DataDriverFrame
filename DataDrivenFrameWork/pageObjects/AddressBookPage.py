@@ -1,13 +1,12 @@
 #coding=utf-8
-from Book_code.DataDrivenFrameWork.util.ObjectMap import *
-from Book_code.DataDrivenFrameWork.util.PareConfigurationFile import ParseCofigFile
+from DataDrivenFrameWork.util.ObjectMap import *
+from DataDrivenFrameWork.util.PareConfigurationFile import ParseCofigFile
 
 class AddressBookPage(object):
     def __init__(self,driver):
         self.driver=driver
         self.parseCF=ParseCofigFile()
         self.addContactsOptions=self.parseCF.getItemsSection('126mail_addContactsPage')
-        print(self.addContactsOptions)
 
     def creatContactPersonButton(self):
         #获取新建联系人按钮

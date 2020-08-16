@@ -1,6 +1,6 @@
 #cofing=utf-8
-from Book_code.DataDrivenFrameWork.pageObjects.AddressBookPage import AddressBookPage
-from Book_code.DataDrivenFrameWork.pageObjects.HomePage import HomePage
+from DataDrivenFrameWork.pageObjects.AddressBookPage import AddressBookPage
+from DataDrivenFrameWork.pageObjects.HomePage import HomePage
 import traceback
 import time
 class AddContactPerson(object):
@@ -29,13 +29,13 @@ class AddContactPerson(object):
                 #非必填项
                 apb.contactPersonMobile().send_keys(contactPhone)
             if contactComment:
-                apb.contactPersonMobile().send_keys(contactPhone)
+                apb.contactPersonComment().send_keys(contactComment)
             apb.saveContacePerson().click()
         except Exception as e:
             raise e
 
 if __name__ == '__main__':
-    from Book_code.DataDrivenFrameWork.appModules.LoginActiom import  LoginAction
+    from DataDrivenFrameWork.appModules.LoginActiom import  LoginAction
     from selenium import  webdriver
     import time
     driver = webdriver.Firefox()

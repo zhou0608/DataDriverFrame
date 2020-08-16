@@ -1,7 +1,7 @@
 # coding=utf-8
 
-from Book_code.DataDrivenFrameWork.util.ObjectMap import *
-from Book_code.DataDrivenFrameWork.util.PareConfigurationFile import ParseCofigFile
+from DataDrivenFrameWork.util.ObjectMap import *
+from DataDrivenFrameWork.util.PareConfigurationFile import ParseCofigFile
 
 
 class LoginPage(object):
@@ -57,6 +57,7 @@ class LoginPage(object):
 
 
 if __name__ == '__main__':
+
     from selenium import webdriver
     driver = webdriver.Firefox()
     driver.get('http://mail.163.com')

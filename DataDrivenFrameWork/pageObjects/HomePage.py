@@ -1,6 +1,6 @@
 #coding=utf-8
-from Book_code.DataDrivenFrameWork.util.ObjectMap import *
-from Book_code.DataDrivenFrameWork.util.PareConfigurationFile import ParseCofigFile
+from DataDrivenFrameWork.util.ObjectMap import *
+from DataDrivenFrameWork.util.PareConfigurationFile import ParseCofigFile
 
 class HomePage(object):
     def __init__(self,driver):

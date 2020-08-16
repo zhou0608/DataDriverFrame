@@ -25,6 +25,7 @@ class ParseExcel(object):
         #根据sheet名获取该sheet对象
         try:
             sheet=self.workbook.get_sheet_by_name(sheetName)
+            return  sheet
         except Exception as e:
             raise e
 
@@ -155,6 +156,5 @@ if __name__ == '__main__':
     rows=pe.getRow(sheet,1)
     for i in rows:
         print('for value:',i.value)
-    print(pe.getcellOfValue(sheet,rowNo=1,colsNo=1))
     pe.writeCell(sheet,u'我爱祖国',rowNo=3,colsNo=2)
     pe.writeCellCurrentTime(sheet,rowNo=3,colsNo=3)
