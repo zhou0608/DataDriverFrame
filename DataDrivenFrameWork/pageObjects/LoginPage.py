@@ -69,6 +69,6 @@ if __name__ == '__main__':
     login.passwordObj().send_keys('9527zj.')
     time.sleep(1)
     # driver.find_element_by_id('dologin').click()
-    login.logingButton().click()
+    login.logingButton().click()    #当浏览器是谷歌的时候不好使，火狐的时候好使
     login.switchToDefaultFrame()
     driver.quit()

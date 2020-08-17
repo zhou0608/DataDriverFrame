@@ -159,9 +159,10 @@ def test126MailAddContacts():
             ignoreUserName=excelObj.getcellOfValue(userSheet,
                                                    rowNo=id+2,colsNo=account_username)
             logging.info('用户%s被忽略执行\n'%ignoreUserName)
-        driver.quit()
     except Exception as e:
         logging.info('数据驱动框架主程序执行过程发生异常，异常信息：%s'%str(traceback.format_exc()))
+    finally:
+        driver.quit()
 if __name__ == '__main__':
     test126MailAddContacts()
     print('看看是否成功')
